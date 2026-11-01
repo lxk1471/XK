@@ -1,0 +1,4 @@
+Coastline: Natural Earth 1:10m Admin 0 Countries, public domain.
+https://www.naturalearthdata.com/downloads/10m-cultural-vectors/
+https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_admin_0_countries.geojson
+Extracted ADMIN=Taiwan, largest polygon (main island). Original coastline vertices retained. Projection: equirectangular, standard parallel 24N. Pins are approximate district/city reference positions; no exact camp addresses supplied. No transfer routes inferred.

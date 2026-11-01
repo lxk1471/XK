@@ -1,0 +1,5 @@
+本地作品集 v8，未上架。開啟 index.html。
+作品先看文件管理工具與 AI 影音流程，再看網站與營運；合併重複自介與工作方式。手機四階段按鈕緊貼結果，Blender 已加入。
+開場：星點與模型共用同一移動縮放容器，透過透明度交接，取消原本兩條獨立移動曲線。保留 0.6 秒就緒等待及 3.4 秒動畫；操作可跳過。未量測使用者設備幀率。
+字體：主站保留粉圓、移除合成粗體、加深內文；font-preview.html 提供 LINE Seed TW + Nunito、粉圓 + Nunito、混合搭配。可調內文深淺與標題粗細；index.html?font=line 為整頁 LINE Seed 試看。LINE Seed 使用官方 WOFF2，授權在 fonts/LINESeed-license.txt。
+首頁內嵌 CSS、星球與示意程式，修改來源檔須同步內嵌。
